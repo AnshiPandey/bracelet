@@ -80,7 +80,7 @@ The implementation language, module interface, wiring, and tested firmware behav
 
 A preliminary 3D enclosure has been developed in Autodesk Fusion 360. It includes a rounded bottom case, removable lid, SOS and LED openings, a charging-port opening, an alignment lip, and screw-post placeholders.
 
-**CAD Model:** [Insert the shareable Fusion 360 design link here]
+**CAD Model:** [https://a360.co/4jzrfRw](url)
 
 The current enclosure is a draft. Strap attachments, internal component clearances, and final assembly tolerances may require further refinement.
 
